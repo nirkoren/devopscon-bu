@@ -1,5 +1,6 @@
 # Hi and welcome to DevOpsCon demo repository
 ## This repo contains basic Maven project with Hello-World war file 
+## Mod by George Ferreira
 In order to make it work, please do the following: 
 
 <ul>
